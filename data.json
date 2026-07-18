@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:44:59.153Z",
+  "updated": "2026-07-18T14:14:17.854Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -8166,25 +8166,25 @@
         }
       ]
     },
-    "11757": {
-      "mal_id": 11757,
-      "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+    "11061": {
+      "mal_id": 11061,
+      "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39717t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/11/39717t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39717l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/6ohYYtxfDCg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/D9iTQRB4XRk?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -8197,118 +8197,113 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Sword Art Online"
+          "title": "Hunter x Hunter (2011)"
         },
         {
           "type": "Synonym",
-          "title": "S.A.O"
-        },
-        {
-          "type": "Synonym",
-          "title": "SAO"
+          "title": "HxH (2011)"
         },
         {
           "type": "Japanese",
-          "title": "ソードアート・オンライン"
+          "title": "HUNTER×HUNTER（ハンター×ハンター）"
         },
         {
           "type": "English",
-          "title": "Sword Art Online"
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "German",
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "Spanish",
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "French",
+          "title": "Hunter X Hunter"
         }
       ],
-      "title": "Sword Art Online",
-      "title_english": "Sword Art Online",
-      "title_japanese": "ソードアート・オンライン",
+      "title": "Hunter x Hunter (2011)",
+      "title_english": "Hunter x Hunter",
+      "title_japanese": "HUNTER×HUNTER（ハンター×ハンター）",
       "title_synonyms": [
-        "S.A.O",
-        "SAO"
+        "HxH (2011)"
       ],
       "type": "TV",
-      "source": "Light novel",
-      "episodes": 25,
+      "source": "Manga",
+      "episodes": 148,
       "status": "Finished Airing",
       "airing": false,
       "aired": {
-        "from": "2012-07-08T00:00:00+00:00",
-        "to": "2012-12-23T00:00:00+00:00",
+        "from": "2011-10-02T00:00:00+00:00",
+        "to": "2014-09-24T00:00:00+00:00",
         "prop": {
           "from": {
-            "day": 8,
-            "month": 7,
-            "year": 2012
+            "day": 2,
+            "month": 10,
+            "year": 2011
           },
           "to": {
-            "day": 23,
-            "month": 12,
-            "year": 2012
+            "day": 24,
+            "month": 9,
+            "year": 2014
           }
         },
-        "string": "Jul 8, 2012 to Dec 23, 2012"
+        "string": "Oct 2, 2011 to Sep 24, 2014"
       },
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": 7.23,
-      "scored_by": 2291184,
-      "rank": 3566,
-      "popularity": 7,
-      "members": 3318484,
-      "favorites": 71365,
-      "synopsis": "Ever since the release of the innovative NerveGear, gamers from all around the globe have been given the opportunity to experience a completely immersive virtual reality. Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination. With the release of this worldwide sensation, gaming has never felt more lifelike.\n\nHowever, the idyllic fantasy rapidly becomes a brutal nightmare when SAO's creator traps thousands of players inside the game. The \"log-out\" function has been removed, with the only method of escape involving beating all of Aincrad's one hundred increasingly difficult levels. Adding to the struggle, any in-game death becomes permanent, ending the player's life in the real world.\n\nWhile Kazuto \"Kirito\" Kirigaya was fortunate enough to be a beta-tester for the game, he quickly finds that despite his advantages, he cannot overcome SAO's challenges alone. Teaming up with Asuna Yuuki and other talented players, Kirito makes an effort to face the seemingly insurmountable trials head-on. But with difficult bosses and threatening dark cults impeding his progress, Kirito finds that such tasks are much easier said than done.\n\n[Written by MAL Rewrite]",
+      "score": 9.03,
+      "scored_by": 1996610,
+      "rank": 10,
+      "popularity": 8,
+      "members": 3216267,
+      "favorites": 230857,
+      "synopsis": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.\n\nAmbitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.\n\nDuring the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.\n\n[Written by MAL Rewrite]",
       "background": "",
-      "season": "summer",
-      "year": 2012,
+      "season": "fall",
+      "year": 2011,
       "broadcast": {
         "day": "Sundays",
-        "time": "00:00",
+        "time": "10:55",
         "timezone": "Asia/Tokyo",
-        "string": "Sundays at 00:00 (JST)"
+        "string": "Sundays at 10:55 (JST)"
       },
       "producers": [
         {
-          "mal_id": 17,
+          "mal_id": 29,
           "type": "anime",
-          "name": "Aniplex",
-          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
         },
         {
-          "mal_id": 79,
+          "mal_id": 1003,
           "type": "anime",
-          "name": "Genco",
-          "url": "https://myanimelist.net/anime/producer/79/Genco"
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
         },
         {
-          "mal_id": 315,
+          "mal_id": 1365,
           "type": "anime",
-          "name": "DAX Production",
-          "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
-        },
-        {
-          "mal_id": 681,
-          "type": "anime",
-          "name": "ASCII Media Works",
-          "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
-        },
-        {
-          "mal_id": 1097,
-          "type": "anime",
-          "name": "Bandai Namco Games",
-          "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
         }
       ],
       "licensors": [
         {
-          "mal_id": 493,
+          "mal_id": 119,
           "type": "anime",
-          "name": "Aniplex of America",
-          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
         }
       ],
       "studios": [
         {
-          "mal_id": 56,
+          "mal_id": 11,
           "type": "anime",
-          "name": "A-1 Pictures",
-          "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
         }
       ],
       "genres": [
@@ -8329,62 +8324,44 @@
           "type": "anime",
           "name": "Fantasy",
           "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        },
-        {
-          "mal_id": 22,
-          "type": "anime",
-          "name": "Romance",
-          "url": "https://myanimelist.net/anime/genre/22/Romance"
         }
       ],
       "explicit_genres": [],
-      "themes": [
+      "themes": [],
+      "demographics": [
         {
-          "mal_id": 79,
+          "mal_id": 27,
           "type": "anime",
-          "name": "Video Game",
-          "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
         }
       ],
-      "demographics": [],
       "relations": [
-        {
-          "relation": "Sequel",
-          "entry": [
-            {
-              "mal_id": 20021,
-              "type": "anime",
-              "name": "Sword Art Online: Extra Edition",
-              "url": "https://myanimelist.net/anime/20021/Sword_Art_Online__Extra_Edition"
-            },
-            {
-              "mal_id": 21881,
-              "type": "anime",
-              "name": "Sword Art Online II",
-              "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II"
-            }
-          ]
-        },
         {
           "relation": "Adaptation",
           "entry": [
             {
-              "mal_id": 23718,
+              "mal_id": 26,
               "type": "manga",
-              "name": "Sword Art Online: Aincrad",
-              "url": "https://myanimelist.net/manga/23718/Sword_Art_Online__Aincrad"
+              "name": "Hunter x Hunter",
+              "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+            }
+          ]
+        },
+        {
+          "relation": "Side Story",
+          "entry": [
+            {
+              "mal_id": 13271,
+              "type": "anime",
+              "name": "Hunter x Hunter Movie 1: Phantom Rouge",
+              "url": "https://myanimelist.net/anime/13271/Hunter_x_Hunter_Movie_1__Phantom_Rouge"
             },
             {
-              "mal_id": 44733,
-              "type": "manga",
-              "name": "Sword Art Online: Fairy Dance",
-              "url": "https://myanimelist.net/manga/44733/Sword_Art_Online__Fairy_Dance"
-            },
-            {
-              "mal_id": 21479,
-              "type": "manga",
-              "name": "Sword Art Online",
-              "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+              "mal_id": 19951,
+              "type": "anime",
+              "name": "Hunter x Hunter Movie 2: The Last Mission",
+              "url": "https://myanimelist.net/anime/19951/Hunter_x_Hunter_Movie_2__The_Last_Mission"
             }
           ]
         },
@@ -8392,10 +8369,28 @@
           "relation": "Alternative Version",
           "entry": [
             {
-              "mal_id": 42916,
+              "mal_id": 136,
               "type": "anime",
-              "name": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
-              "url": "https://myanimelist.net/anime/42916/Sword_Art_Online__Progressive_Movie_-_Hoshi_Naki_Yoru_no_Aria"
+              "name": "Hunter x Hunter",
+              "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+            },
+            {
+              "mal_id": 137,
+              "type": "anime",
+              "name": "Hunter x Hunter: Original Video Animation",
+              "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation"
+            },
+            {
+              "mal_id": 138,
+              "type": "anime",
+              "name": "Hunter x Hunter: Greed Island",
+              "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+            },
+            {
+              "mal_id": 139,
+              "type": "anime",
+              "name": "Hunter x Hunter: Greed Island Final",
+              "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
             }
           ]
         },
@@ -8403,73 +8398,74 @@
           "relation": "Other",
           "entry": [
             {
-              "mal_id": 16099,
+              "mal_id": 22049,
               "type": "anime",
-              "name": "Sword Art Online: Sword Art Offline",
-              "url": "https://myanimelist.net/anime/16099/Sword_Art_Online__Sword_Art_Offline"
-            },
-            {
-              "mal_id": 53588,
-              "type": "anime",
-              "name": "Sword Art Online: Full Dive - Opening Eizou",
-              "url": "https://myanimelist.net/anime/53588/Sword_Art_Online__Full_Dive_-_Opening_Eizou"
-            },
-            {
-              "mal_id": 63736,
-              "type": "anime",
-              "name": "Sword Art Online: Unanswered//butterfly",
-              "url": "https://myanimelist.net/anime/63736/Sword_Art_Online__Unanswered__butterfly"
-            },
-            {
-              "mal_id": 53529,
-              "type": "anime",
-              "name": "Sword Art Online Movie: Integral Domain",
-              "url": "https://myanimelist.net/anime/53529/Sword_Art_Online_Movie__Integral_Domain"
+              "name": "Just Awake",
+              "url": "https://myanimelist.net/anime/22049/Just_Awake"
             }
           ]
         }
       ],
       "theme": {
         "openings": [
-          "1: \"crossing field\" by LiSA (eps 2-14)",
-          "2: \"INNOCENCE\" by Aoi Eir (eps 15-24)"
+          "1: \"departure!\" by Ono Masatoshi (eps 1-26, 50-52, 62-75, 137-147)",
+          "2: \"departure! -second version-\" by Ono Masatoshi (eps 27-49, 76-103, 109-134, 136)",
+          "3: \"departure! -Opening Tokubetsu-hen-\" by Ono Masatoshi (eps 53-61, 104-108)"
         ],
         "endings": [
-          "1: \"Yume Sekai (ユメセカイ)\" by Haruka Tomatsu (eps 2-14)",
-          "2: \"Overfly\" by Luna Haruna (eps 15-24)",
-          "3: \"crossing field\" by LiSA (eps 25)"
+          "1: \"Just Awake\" by Fear, and Loathing in Las Vegas (eps 1-26)",
+          "2: \"HUNTING FOR YOUR DREAM\" by Galneryus (eps 27-50)",
+          "3: \"Riot\" by Yoshihisa Hirano (eps 51)",
+          "4: \"REASON\" by YUZU (ゆず) (eps 59-75, 147)",
+          "5: \"Nagareboshi Kirari (YUZU Version) (流れ星キラリ (ゆずバージョン))\" by YUZU (ゆず) (eps 76-98)",
+          "6: \"Hyouriittai (表裏一体)\" by YUZU (ゆず) (eps 99-134, 136)",
+          "7: \"Understanding\" by Yoshihisa Hirano (eps 135)",
+          "8: \"Hyouriittai -second version- (表裏一体)\" by YUZU (ゆず) (eps 137-146)",
+          "9: \"departure!\" by Ono Masatoshi (eps 148)"
         ]
       },
       "external": [
         {
           "name": "Official Site",
-          "url": "http://www.swordart-online.net/"
+          "url": "http://www.ntv.co.jp/hunterhunter/"
         },
         {
-          "name": "@sao_anime",
-          "url": "https://twitter.com/sao_anime"
+          "name": "@hunter_anime",
+          "url": "https://twitter.com/hunter_anime"
         },
         {
           "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8692"
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8550"
         },
         {
           "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13858"
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13262"
         },
         {
           "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Sword_Art_Online_(TV_series)"
+          "url": "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://jp.wikipedia.org/wiki/HUNTER%C3%97HUNTER_%282011%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%29"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/2288"
         }
       ],
       "streaming": [
         {
           "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-246948"
+          "url": "http://www.crunchyroll.com/series-237800"
         },
         {
           "name": "Netflix",
-          "url": "https://www.netflix.com/title/70302573"
+          "url": "https://www.netflix.com/title/70300472"
+        },
+        {
+          "name": "Shahid",
+          "url": "https://shahid.mbc.net/en/series/Hunter-x-Hunter/series-930569"
         }
       ]
     },
@@ -9764,295 +9760,6 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/"
-        }
-      ]
-    },
-    "39486": {
-      "mal_id": 39486,
-      "url": "https://myanimelist.net/anime/39486/Gintama__The_Final",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1245/116760.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/Zn1filVUyf8?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Gintama: The Final"
-        },
-        {
-          "type": "Japanese",
-          "title": "銀魂 THE FINAL"
-        },
-        {
-          "type": "English",
-          "title": "Gintama: The Very Final"
-        },
-        {
-          "type": "German",
-          "title": "N/A"
-        }
-      ],
-      "title": "Gintama: The Final",
-      "title_english": "Gintama: The Very Final",
-      "title_japanese": "銀魂 THE FINAL",
-      "title_synonyms": [],
-      "type": "Movie",
-      "source": "Manga",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2021-01-08T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 8,
-            "month": 1,
-            "year": 2021
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Jan 8, 2021"
-      },
-      "duration": "1 hr 44 min",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 9.05,
-      "scored_by": 88047,
-      "rank": 7,
-      "popularity": 1505,
-      "members": 186354,
-      "favorites": 4704,
-      "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.\n\nLater, the regrouped Shinsengumi and Yorozuya begin an attack on the occupied Central Terminal. With the Altana harvested by the wreckage of the Tendoshuu's ship in danger of detonating, the Yorozuya and their allies fight their enemies while the safety of Edo—and the rest of the world—hangs in the balance. Fulfilling the wishes of their teacher, Shouyou Yoshida's former students unite and relive their pasts one final time in an attempt to save their futures.\n\n[Written by MAL Rewrite]",
-      "background": "As of March 2021, Gintama: The Final has earned a franchise record of 1.85 billion yen (16.94 million USD) and debuted at No. 1 at the Japanese box office. The film concludes the Gintama anime series, adapting chapters 699-704 of the original manga with new story elements.",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [
-        {
-          "mal_id": 16,
-          "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
-        },
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Aniplex",
-          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
-        },
-        {
-          "mal_id": 53,
-          "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
-        },
-        {
-          "mal_id": 230,
-          "type": "anime",
-          "name": "Bandai",
-          "url": "https://myanimelist.net/anime/producer/230/Bandai"
-        },
-        {
-          "mal_id": 415,
-          "type": "anime",
-          "name": "Warner Bros. Japan",
-          "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
-        },
-        {
-          "mal_id": 1365,
-          "type": "anime",
-          "name": "Shueisha",
-          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 531,
-          "type": "anime",
-          "name": "Eleven Arts",
-          "url": "https://myanimelist.net/anime/producer/531/Eleven_Arts"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 1258,
-          "type": "anime",
-          "name": "Bandai Namco Pictures",
-          "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Comedy",
-          "url": "https://myanimelist.net/anime/genre/4/Comedy"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 24,
-          "type": "anime",
-          "name": "Sci-Fi",
-          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 57,
-          "type": "anime",
-          "name": "Gag Humor",
-          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
-        },
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        },
-        {
-          "mal_id": 20,
-          "type": "anime",
-          "name": "Parody",
-          "url": "https://myanimelist.net/anime/genre/20/Parody"
-        },
-        {
-          "mal_id": 21,
-          "type": "anime",
-          "name": "Samurai",
-          "url": "https://myanimelist.net/anime/genre/21/Samurai"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "relations": [
-        {
-          "relation": "Prequel",
-          "entry": [
-            {
-              "mal_id": 44087,
-              "type": "anime",
-              "name": "Gintama: The Semi-Final",
-              "url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final"
-            }
-          ]
-        },
-        {
-          "relation": "Adaptation",
-          "entry": [
-            {
-              "mal_id": 44,
-              "type": "manga",
-              "name": "Gintama",
-              "url": "https://myanimelist.net/manga/44/Gintama"
-            }
-          ]
-        },
-        {
-          "relation": "Other",
-          "entry": [
-            {
-              "mal_id": 48436,
-              "type": "anime",
-              "name": "Gintama: The Final x Mameshiba",
-              "url": "https://myanimelist.net/anime/48436/Gintama__The_Final_x_Mameshiba"
-            }
-          ]
-        }
-      ],
-      "theme": {
-        "openings": [
-          "\"Wadachi (轍)\" by SPYAIR"
-        ],
-        "endings": [
-          "\"Wadachi (轍～Wadachi～)\" by SPYAIR"
-        ]
-      },
-      "external": [
-        {
-          "name": "Official Site",
-          "url": "http://www.tv-tokyo.co.jp/anime/gintama/"
-        },
-        {
-          "name": "@gintamamovie",
-          "url": "https://twitter.com/gintamamovie"
-        },
-        {
-          "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14719"
-        },
-        {
-          "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23828"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Gin_Tama#Animation"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_THE_FINAL"
-        },
-        {
-          "name": "Syoboi",
-          "url": "https://cal.syoboi.jp/tid/5909"
-        }
-      ],
-      "streaming": [
-        {
-          "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-283427"
-        },
-        {
-          "name": "Shahid",
-          "url": "https://shahid.mbc.net/en/movies/Gintama:-The-Final/movie-919805"
         }
       ]
     },
