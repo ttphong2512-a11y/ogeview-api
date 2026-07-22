@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T09:06:05.343Z",
+  "updated": "2026-07-22T11:23:50.707Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -7229,25 +7229,25 @@
     ]
   },
   "details": {
-    "20": {
-      "mal_id": 20,
-      "url": "https://myanimelist.net/anime/20/Naruto",
+    "1535": {
+      "mal_id": 1535,
+      "url": "https://myanimelist.net/anime/1535/Death_Note",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Vt_3c8BgxV4?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -7260,79 +7260,91 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Naruto"
+          "title": "Death Note"
         },
         {
           "type": "Synonym",
-          "title": "NARUTO"
+          "title": "DN"
         },
         {
           "type": "Japanese",
-          "title": "ナルト"
+          "title": "デスノート"
         },
         {
           "type": "English",
-          "title": "Naruto"
+          "title": "Death Note"
         }
       ],
-      "title": "Naruto",
-      "title_english": "Naruto",
-      "title_japanese": "ナルト",
+      "title": "Death Note",
+      "title_english": "Death Note",
+      "title_japanese": "デスノート",
       "title_synonyms": [
-        "NARUTO"
+        "DN"
       ],
       "type": "TV",
       "source": "Manga",
-      "episodes": 220,
+      "episodes": 37,
       "status": "Finished Airing",
       "airing": false,
       "aired": {
-        "from": "2002-10-03T00:00:00+00:00",
-        "to": "2007-02-08T00:00:00+00:00",
+        "from": "2006-10-04T00:00:00+00:00",
+        "to": "2007-06-27T00:00:00+00:00",
         "prop": {
           "from": {
-            "day": 3,
+            "day": 4,
             "month": 10,
-            "year": 2002
+            "year": 2006
           },
           "to": {
-            "day": 8,
-            "month": 2,
+            "day": 27,
+            "month": 6,
             "year": 2007
           }
         },
-        "string": "Oct 3, 2002 to Feb 8, 2007"
+        "string": "Oct 4, 2006 to Jun 27, 2007"
       },
       "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.02,
-      "scored_by": 2155746,
-      "rank": 724,
-      "popularity": 9,
-      "members": 3139379,
-      "favorites": 87079,
-      "synopsis": "Twelve years ago, a colossal demon fox terrorized the world. During the monster's attack on the Hidden Leaf Village, the Hokage—the village's leader and most powerful ninja—sacrifices himself to seal the beast inside a newborn, relieving civilization from destruction while dooming the baby to a lonely life.\n\nNow, after years of being shunned and bullied, Naruto Uzumaki pesters the village with elaborate pranks and vandalism. Despite these antics, he works hard to achieve his dream: to become the Hokage and earn the acknowledgement of those who have mistreated him for his entire life. Naruto joins Team 7, a ninja squad made up of two of his peers—prodigy Sasuke Uchiha and clever Sakura Haruno.\n\nUnder the aloof Kakashi Hatake's leadership, Team 7 takes on a series of difficult missions, forcing its members to grow in strength and comradery despite their many differences. Naruto strives to stand out in his rivalry with Sasuke and earn the romantic affection of Sakura. But as the trio brush against danger and death, their tragic pasts threaten to tear them apart.\n\n[Written by MAL Rewrite]",
-      "background": "Naruto received numerous awards during its airing, including the Best Full-Length Animation Program Award in the third UStv Awards and the 38th Best Animated Show in IGN's Top 100 Animated Series. The anime was released on DVD in 16 volumes by VIZ Media from July 4, 2006, to September 22, 2009. The company rereleased it in eight volumes from October 6, 2009, to December 14, 2010. VIZ Media also made available a Blu-ray version in eight volumes from November 3, 2020, to October 18, 2022. The series adapts the first 27 volumes of the original manga.",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.62,
+      "scored_by": 3028599,
+      "rank": 99,
+      "popularity": 2,
+      "members": 4333280,
+      "favorites": 186867,
+      "synopsis": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.\n\nFor his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder.\n\nAware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.\n\n[Written by MAL Rewrite]",
+      "background": "",
       "season": "fall",
-      "year": 2002,
+      "year": 2006,
       "broadcast": {
-        "day": "Thursdays",
-        "time": "19:30",
+        "day": "Wednesdays",
+        "time": "00:56",
         "timezone": "Asia/Tokyo",
-        "string": "Thursdays at 19:30 (JST)"
+        "string": "Wednesdays at 00:56 (JST)"
       },
       "producers": [
         {
-          "mal_id": 16,
+          "mal_id": 29,
           "type": "anime",
-          "name": "TV Tokyo",
-          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
         },
         {
-          "mal_id": 17,
+          "mal_id": 1003,
           "type": "anime",
-          "name": "Aniplex",
-          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 1791,
+          "type": "anime",
+          "name": "D.N. Dream Partners",
+          "url": "https://myanimelist.net/anime/producer/1791/DN_Dream_Partners"
         }
       ],
       "licensors": [
@@ -7345,392 +7357,33 @@
       ],
       "studios": [
         {
-          "mal_id": 1,
+          "mal_id": 11,
           "type": "anime",
-          "name": "Studio Pierrot",
-          "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
         }
       ],
       "genres": [
         {
-          "mal_id": 1,
+          "mal_id": 37,
           "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
         },
         {
-          "mal_id": 2,
+          "mal_id": 41,
           "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 17,
+          "mal_id": 40,
           "type": "anime",
-          "name": "Martial Arts",
-          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "relations": [
-        {
-          "relation": "Sequel",
-          "entry": [
-            {
-              "mal_id": 1735,
-              "type": "anime",
-              "name": "Naruto: Shippuuden",
-              "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
-            }
-          ]
-        },
-        {
-          "relation": "Adaptation",
-          "entry": [
-            {
-              "mal_id": 11,
-              "type": "manga",
-              "name": "Naruto",
-              "url": "https://myanimelist.net/manga/11/Naruto"
-            }
-          ]
-        },
-        {
-          "relation": "Side Story",
-          "entry": [
-            {
-              "mal_id": 761,
-              "type": "anime",
-              "name": "Naruto: Akaki Yotsuba no Clover wo Sagase",
-              "url": "https://myanimelist.net/anime/761/Naruto__Akaki_Yotsuba_no_Clover_wo_Sagase"
-            },
-            {
-              "mal_id": 594,
-              "type": "anime",
-              "name": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
-              "url": "https://myanimelist.net/anime/594/Naruto__Takigakure_no_Shitou_-_Ore_ga_Eiyuu_Dattebayo"
-            },
-            {
-              "mal_id": 442,
-              "type": "anime",
-              "name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
-              "url": "https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Dattebayo"
-            },
-            {
-              "mal_id": 936,
-              "type": "anime",
-              "name": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
-              "url": "https://myanimelist.net/anime/936/Naruto_Movie_2__Dai_Gekitotsu_Maboroshi_no_Chiteiiseki_Dattebayo"
-            },
-            {
-              "mal_id": 1074,
-              "type": "anime",
-              "name": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
-              "url": "https://myanimelist.net/anime/1074/Naruto_Narutimate_Hero_3__Tsuini_Gekitotsu_Jounin_vs_Genin_Musabetsu_Dairansen_Taikai_Kaisai"
-            },
-            {
-              "mal_id": 2144,
-              "type": "anime",
-              "name": "Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo!",
-              "url": "https://myanimelist.net/anime/2144/Naruto_Movie_3__Dai_Koufun_Mikazuki-jima_no_Animal_Panic_Dattebayo"
-            },
-            {
-              "mal_id": 7367,
-              "type": "anime",
-              "name": "Naruto: The Cross Roads",
-              "url": "https://myanimelist.net/anime/7367/Naruto__The_Cross_Roads"
-            }
-          ]
-        },
-        {
-          "relation": "Other",
-          "entry": [
-            {
-              "mal_id": 53236,
-              "type": "anime",
-              "name": "Road of Naruto",
-              "url": "https://myanimelist.net/anime/53236/Road_of_Naruto"
-            },
-            {
-              "mal_id": 54688,
-              "type": "anime",
-              "name": "Naruto (Shinsaku Anime)",
-              "url": "https://myanimelist.net/anime/54688/Naruto_Shinsaku_Anime"
-            }
-          ]
-        }
-      ],
-      "theme": {
-        "openings": [
-          "1: \"R★O★C★K★S\" by Hound Dog (eps 1-25)",
-          "2: \"Haruka Kanata (遥か彼方)\" by Asian Kung-fu Generation (eps 26-53)",
-          "3: \"Kanashimi wo Yasashisa ni (悲しみをやさしさに)\" by little by little (eps 54-77)",
-          "4: \"GO!!!\" by FLOW (eps 78-103)",
-          "5: \"Seishun Kyosokyoku (青春狂騒曲)\" by Sambomaster (eps 104-128)",
-          "6: \"No Boy, No Cry (ノーボーイ・ノークライ)\" by Stance Punks (eps 129-153)",
-          "7: \"Namikaze Satellite (波風サテライト)\" by Snowkel (eps 154-178)",
-          "8: \"Re:member\" by FLOW (eps 179-202)",
-          "9: \"YURA YURA (ユラユラ)\" by Hearts Grow (eps 203-220)"
-        ],
-        "endings": [
-          "1: \"Wind\" by Akeboshi (eps 1-25)",
-          "2: \"Harmonia\" by Rythem (eps 26-51)",
-          "3: \"Viva Rock ~Japanese Side~\" by Orange Range (eps 52-64)",
-          "4: \"ALIVE\" by Raiko (eps 65-77)",
-          "5: \"Ima made Nando mo\" by the Mass Missile (eps 78-89)",
-          "6: \"Ryusei\" by Tia (eps 90-103)",
-          "7: \"Mountain A Go Go Too\" by Captain Straydum (eps 104-115)",
-          "8: \"Hajimete Kimi to Shabetta\" by GagagaSP (eps 116-128)",
-          "9: \"Nakushita Kotoba\" by No Regret Life (eps 129-141)",
-          "10: \"Speed\" by Analogfish (eps 142-153)",
-          "11: \"Soba ni Iru Kara\" by Amadori (eps 154-165)",
-          "12: \"Parade\" by CHABA (eps 166-178)",
-          "13: \"Yellow Moon\" by Akeboshi (eps 179-191)",
-          "14: \"Pinocchio\" by Ore Ska Band (eps 192-202)",
-          "15: \"Scenario\" by SABOTEN (eps 203-220)"
-        ]
-      },
-      "external": [
-        {
-          "name": "Official Site",
-          "url": "http://www.tv-tokyo.co.jp/anime/naruto2002/"
-        },
-        {
-          "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=239"
-        },
-        {
-          "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1825"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "http://en.wikipedia.org/wiki/Naruto"
-        },
-        {
-          "name": "Bangumi",
-          "url": "https://bangumi.tv/subject/3425"
-        }
-      ],
-      "streaming": [
-        {
-          "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-280621"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/title/70205012"
-        }
-      ]
-    },
-    "5114": {
-      "mal_id": 5114,
-      "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/1ac3_YdSSy0?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Fullmetal Alchemist: Brotherhood"
-        },
-        {
-          "type": "Synonym",
-          "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist"
-        },
-        {
-          "type": "Synonym",
-          "title": "Fullmetal Alchemist (2009)"
-        },
-        {
-          "type": "Synonym",
-          "title": "FMA"
-        },
-        {
-          "type": "Synonym",
-          "title": "FMAB"
-        },
-        {
-          "type": "Japanese",
-          "title": "鋼の錬金術師 FULLMETAL ALCHEMIST"
-        },
-        {
-          "type": "English",
-          "title": "Fullmetal Alchemist: Brotherhood"
-        },
-        {
-          "type": "French",
-          "title": "Fullmetal Alchemist Brotherhood"
-        }
-      ],
-      "title": "Fullmetal Alchemist: Brotherhood",
-      "title_english": "Fullmetal Alchemist: Brotherhood",
-      "title_japanese": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-      "title_synonyms": [
-        "Hagane no Renkinjutsushi: Fullmetal Alchemist",
-        "Fullmetal Alchemist (2009)",
-        "FMA",
-        "FMAB"
-      ],
-      "type": "TV",
-      "source": "Manga",
-      "episodes": 64,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2009-04-05T00:00:00+00:00",
-        "to": "2010-07-04T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 5,
-            "month": 4,
-            "year": 2009
-          },
-          "to": {
-            "day": 4,
-            "month": 7,
-            "year": 2010
-          }
-        },
-        "string": "Apr 5, 2009 to Jul 4, 2010"
-      },
-      "duration": "24 min per ep",
-      "rating": "R - 17+ (violence & profanity)",
-      "score": 9.11,
-      "scored_by": 2326660,
-      "rank": 3,
-      "popularity": 3,
-      "members": 3709700,
-      "favorites": 244115,
-      "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
-      "background": "",
-      "season": "spring",
-      "year": 2009,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "17:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 17:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 17,
-          "type": "anime",
-          "name": "Aniplex",
-          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
-        },
-        {
-          "mal_id": 58,
-          "type": "anime",
-          "name": "Square Enix",
-          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
-        },
-        {
-          "mal_id": 143,
-          "type": "anime",
-          "name": "Mainichi Broadcasting System",
-          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
-        },
-        {
-          "mal_id": 1499,
-          "type": "anime",
-          "name": "Techno Sound",
-          "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        },
-        {
-          "mal_id": 493,
-          "type": "anime",
-          "name": "Aniplex of America",
-          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 4,
-          "type": "anime",
-          "name": "Bones",
-          "url": "https://myanimelist.net/anime/producer/4/Bones"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Adventure",
-          "url": "https://myanimelist.net/anime/genre/2/Adventure"
-        },
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 38,
-          "type": "anime",
-          "name": "Military",
-          "url": "https://myanimelist.net/anime/genre/38/Military"
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
         }
       ],
       "demographics": [
@@ -7746,109 +7399,78 @@
           "relation": "Adaptation",
           "entry": [
             {
-              "mal_id": 25,
+              "mal_id": 21,
               "type": "manga",
-              "name": "Fullmetal Alchemist",
-              "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist"
+              "name": "Death Note",
+              "url": "https://myanimelist.net/manga/21/Death_Note"
             }
           ]
         },
         {
-          "relation": "Side Story",
+          "relation": "Summary",
           "entry": [
             {
-              "mal_id": 6421,
+              "mal_id": 2994,
               "type": "anime",
-              "name": "Fullmetal Alchemist: Brotherhood Specials",
-              "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials"
-            },
-            {
-              "mal_id": 9135,
-              "type": "anime",
-              "name": "Fullmetal Alchemist: The Sacred Star of Milos",
-              "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos"
-            }
-          ]
-        },
-        {
-          "relation": "Spin-Off",
-          "entry": [
-            {
-              "mal_id": 7902,
-              "type": "anime",
-              "name": "Fullmetal Alchemist: Brotherhood - 4-koma Gekijou",
-              "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-koma_Gekijou"
-            }
-          ]
-        },
-        {
-          "relation": "Alternative Version",
-          "entry": [
-            {
-              "mal_id": 121,
-              "type": "anime",
-              "name": "Fullmetal Alchemist",
-              "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist"
+              "name": "Death Note: Rewrite",
+              "url": "https://myanimelist.net/anime/2994/Death_Note__Rewrite"
             }
           ]
         }
       ],
       "theme": {
         "openings": [
-          "1: \"again\" by YUI (eps 1-14)",
-          "2: \"Hologram (ホログラム)\" by NICO Touches the Walls (eps 15-26)",
-          "3: \"Golden Time Lover (ゴールデンタイムラバー)\" by Sukima Switch (eps 27-38)",
-          "4: \"Period\" by Chemistry (eps 39-50)",
-          "5: \"Rain (レイン)\" by SID (eps 51-62)"
+          "\"What's up, people?!\" by Maximum the Hormone (eps 20-37)",
+          "1: \"the WORLD\" by Nightmare (eps 1-19)"
         ],
         "endings": [
-          "1: \"Uso (嘘)\" by SID (eps 1-14)",
-          "2: \"LET IT OUT\" by Miho Fukuhara (eps 15-26)",
-          "3: \"Tsunaida Te (つないだ手)\" by Lil'B (eps 27-38)",
-          "4: \"Shunkan Sentimental (瞬間センチメンタル)\" by SCANDAL (eps 39-50)",
-          "5: \"RAY OF LIGHT\" by Nakagawa Shouko (eps 51-62)",
-          "6: \"Rain (レイン)\" by SID (eps 63)",
-          "7: \"Hologram (ホログラム)\" by NICO Touches the Walls (eps 64)"
+          "1: \"Alumina\" by Nightmare (eps 1-19)",
+          "2: \"Zetsubō Billy\" by Maximum the Hormone (eps 20-36)",
+          "3: \"Coda ~ Death Note\" by Yoshihisa Hirano (eps 37)"
         ]
       },
       "external": [
         {
           "name": "Official Site",
-          "url": "http://www.hagaren.jp/fa/"
-        },
-        {
-          "name": "@hagaren_anime",
-          "url": "https://twitter.com/hagaren_anime"
+          "url": "http://www.ntv.co.jp/deathnote/"
         },
         {
           "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6107"
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563"
         },
         {
           "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216"
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
         },
         {
           "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Fullmetal_Alchemist:_Brotherhood"
+          "url": "https://en.wikipedia.org/wiki/Death_Note"
         },
         {
           "name": "Wikipedia",
-          "url": "https://ja.wikipedia.org/wiki/%E9%8B%BC%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB_FULLMETAL_ALCHEMIST"
+          "url": "https://ja.wikipedia.org/wiki/DEATH_NOTE_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         },
         {
           "name": "Syoboi",
-          "url": "https://cal.syoboi.jp/tid/1575"
+          "url": "https://cal.syoboi.jp/tid/945"
+        },
+        {
+          "name": "Bangumi",
+          "url": "https://bgm.tv/subject/1773"
         }
       ],
       "streaming": [
         {
           "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-271031"
+          "url": "http://www.crunchyroll.com/series-278866"
         },
         {
-          "name": "AmasianTV",
-          "url": "https://amasian.tv/video/series/fullmetal-alchemist-brotherhood-eng-dub"
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/70204970"
+        },
+        {
+          "name": "Shahid",
+          "url": "https://shahid.mbc.net/en/series/Death-Note/series-913256"
         }
       ]
     },
@@ -8164,6 +7786,309 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/"
+        }
+      ]
+    },
+    "11061": {
+      "mal_id": 11061,
+      "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/D9iTQRB4XRk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hunter x Hunter (2011)"
+        },
+        {
+          "type": "Synonym",
+          "title": "HxH (2011)"
+        },
+        {
+          "type": "Japanese",
+          "title": "HUNTER×HUNTER（ハンター×ハンター）"
+        },
+        {
+          "type": "English",
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "German",
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "Spanish",
+          "title": "Hunter x Hunter"
+        },
+        {
+          "type": "French",
+          "title": "Hunter X Hunter"
+        }
+      ],
+      "title": "Hunter x Hunter (2011)",
+      "title_english": "Hunter x Hunter",
+      "title_japanese": "HUNTER×HUNTER（ハンター×ハンター）",
+      "title_synonyms": [
+        "HxH (2011)"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 148,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-10-02T00:00:00+00:00",
+        "to": "2014-09-24T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 10,
+            "year": 2011
+          },
+          "to": {
+            "day": 24,
+            "month": 9,
+            "year": 2014
+          }
+        },
+        "string": "Oct 2, 2011 to Sep 24, 2014"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 9.03,
+      "scored_by": 1996610,
+      "rank": 10,
+      "popularity": 8,
+      "members": 3216267,
+      "favorites": 230857,
+      "synopsis": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.\n\nAmbitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.\n\nDuring the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": "fall",
+      "year": 2011,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "10:55",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 10:55 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 29,
+          "type": "anime",
+          "name": "VAP",
+          "url": "https://myanimelist.net/anime/producer/29/VAP"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 119,
+          "type": "anime",
+          "name": "VIZ Media",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 11,
+          "type": "anime",
+          "name": "Madhouse",
+          "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 26,
+              "type": "manga",
+              "name": "Hunter x Hunter",
+              "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+            }
+          ]
+        },
+        {
+          "relation": "Side Story",
+          "entry": [
+            {
+              "mal_id": 13271,
+              "type": "anime",
+              "name": "Hunter x Hunter Movie 1: Phantom Rouge",
+              "url": "https://myanimelist.net/anime/13271/Hunter_x_Hunter_Movie_1__Phantom_Rouge"
+            },
+            {
+              "mal_id": 19951,
+              "type": "anime",
+              "name": "Hunter x Hunter Movie 2: The Last Mission",
+              "url": "https://myanimelist.net/anime/19951/Hunter_x_Hunter_Movie_2__The_Last_Mission"
+            }
+          ]
+        },
+        {
+          "relation": "Alternative Version",
+          "entry": [
+            {
+              "mal_id": 136,
+              "type": "anime",
+              "name": "Hunter x Hunter",
+              "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+            },
+            {
+              "mal_id": 137,
+              "type": "anime",
+              "name": "Hunter x Hunter: Original Video Animation",
+              "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation"
+            },
+            {
+              "mal_id": 138,
+              "type": "anime",
+              "name": "Hunter x Hunter: Greed Island",
+              "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+            },
+            {
+              "mal_id": 139,
+              "type": "anime",
+              "name": "Hunter x Hunter: Greed Island Final",
+              "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
+            }
+          ]
+        },
+        {
+          "relation": "Other",
+          "entry": [
+            {
+              "mal_id": 22049,
+              "type": "anime",
+              "name": "Just Awake",
+              "url": "https://myanimelist.net/anime/22049/Just_Awake"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [
+          "1: \"departure!\" by Ono Masatoshi (eps 1-26, 50-52, 62-75, 137-147)",
+          "2: \"departure! -second version-\" by Ono Masatoshi (eps 27-49, 76-103, 109-134, 136)",
+          "3: \"departure! -Opening Tokubetsu-hen-\" by Ono Masatoshi (eps 53-61, 104-108)"
+        ],
+        "endings": [
+          "1: \"Just Awake\" by Fear, and Loathing in Las Vegas (eps 1-26)",
+          "2: \"HUNTING FOR YOUR DREAM\" by Galneryus (eps 27-50)",
+          "3: \"Riot\" by Yoshihisa Hirano (eps 51)",
+          "4: \"REASON\" by YUZU (ゆず) (eps 59-75, 147)",
+          "5: \"Nagareboshi Kirari (YUZU Version) (流れ星キラリ (ゆずバージョン))\" by YUZU (ゆず) (eps 76-98)",
+          "6: \"Hyouriittai (表裏一体)\" by YUZU (ゆず) (eps 99-134, 136)",
+          "7: \"Understanding\" by Yoshihisa Hirano (eps 135)",
+          "8: \"Hyouriittai -second version- (表裏一体)\" by YUZU (ゆず) (eps 137-146)",
+          "9: \"departure!\" by Ono Masatoshi (eps 148)"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "http://www.ntv.co.jp/hunterhunter/"
+        },
+        {
+          "name": "@hunter_anime",
+          "url": "https://twitter.com/hunter_anime"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8550"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13262"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://jp.wikipedia.org/wiki/HUNTER%C3%97HUNTER_%282011%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%29"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/2288"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "http://www.crunchyroll.com/series-237800"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/70300472"
+        },
+        {
+          "name": "Shahid",
+          "url": "https://shahid.mbc.net/en/series/Hunter-x-Hunter/series-930569"
         }
       ]
     },
@@ -9489,25 +9414,25 @@
         }
       ]
     },
-    "31964": {
-      "mal_id": 31964,
-      "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+    "38000": {
+      "mal_id": 38000,
+      "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -9520,97 +9445,91 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Boku no Hero Academia"
+          "title": "Kimetsu no Yaiba"
+        },
+        {
+          "type": "Synonym",
+          "title": "Blade of Demon Destruction"
         },
         {
           "type": "Japanese",
-          "title": "僕のヒーローアカデミア"
+          "title": "鬼滅の刃"
         },
         {
           "type": "English",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer: Kimetsu no Yaiba"
         },
         {
           "type": "German",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer"
         },
         {
           "type": "Spanish",
-          "title": "My Hero Academia"
+          "title": "Guardianes De La Noche: Kimetsu no Yaiba"
         },
         {
           "type": "French",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer"
         }
       ],
-      "title": "Boku no Hero Academia",
-      "title_english": "My Hero Academia",
-      "title_japanese": "僕のヒーローアカデミア",
-      "title_synonyms": [],
+      "title": "Kimetsu no Yaiba",
+      "title_english": "Demon Slayer: Kimetsu no Yaiba",
+      "title_japanese": "鬼滅の刃",
+      "title_synonyms": [
+        "Blade of Demon Destruction"
+      ],
       "type": "TV",
       "source": "Manga",
-      "episodes": 13,
+      "episodes": 26,
       "status": "Finished Airing",
       "airing": false,
       "aired": {
-        "from": "2016-04-03T00:00:00+00:00",
-        "to": "2016-06-26T00:00:00+00:00",
+        "from": "2019-04-06T00:00:00+00:00",
+        "to": "2019-09-28T00:00:00+00:00",
         "prop": {
           "from": {
-            "day": 3,
+            "day": 6,
             "month": 4,
-            "year": 2016
+            "year": 2019
           },
           "to": {
-            "day": 26,
-            "month": 6,
-            "year": 2016
+            "day": 28,
+            "month": 9,
+            "year": 2019
           }
         },
-        "string": "Apr 3, 2016 to Jun 26, 2016"
+        "string": "Apr 6, 2019 to Sep 28, 2019"
       },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.82,
-      "scored_by": 2254235,
-      "rank": 1106,
-      "popularity": 6,
-      "members": 3329976,
-      "favorites": 55544,
-      "synopsis": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\n\nSince he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!\n\nEnduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.\n\n[Written by MAL Rewrite]",
-      "background": "Mangaka Kouhei Horikoshi has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.4,
+      "scored_by": 2384496,
+      "rank": 235,
+      "popularity": 5,
+      "members": 3479828,
+      "favorites": 95186,
+      "synopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.\n\nWhen he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.\n\n[Written by MAL Rewrite]",
+      "background": "The anime covers chapters 1 to 53 of the manga. Kimetsu no Yaiba won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2020.",
       "season": "spring",
-      "year": 2016,
+      "year": 2019,
       "broadcast": {
-        "day": "Sundays",
-        "time": "17:00",
+        "day": "Saturdays",
+        "time": "23:30",
         "timezone": "Asia/Tokyo",
-        "string": "Sundays at 17:00 (JST)"
+        "string": "Saturdays at 23:30 (JST)"
       },
       "producers": [
         {
-          "mal_id": 53,
+          "mal_id": 17,
           "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
         },
         {
-          "mal_id": 143,
+          "mal_id": 719,
           "type": "anime",
-          "name": "Mainichi Broadcasting System",
-          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
-        },
-        {
-          "mal_id": 166,
-          "type": "anime",
-          "name": "Movic",
-          "url": "https://myanimelist.net/anime/producer/166/Movic"
-        },
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
         },
         {
           "mal_id": 1365,
@@ -9621,18 +9540,18 @@
       ],
       "licensors": [
         {
-          "mal_id": 102,
+          "mal_id": 493,
           "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
         }
       ],
       "studios": [
         {
-          "mal_id": 4,
+          "mal_id": 43,
           "type": "anime",
-          "name": "Bones",
-          "url": "https://myanimelist.net/anime/producer/4/Bones"
+          "name": "ufotable",
+          "url": "https://myanimelist.net/anime/producer/43/ufotable"
         }
       ],
       "genres": [
@@ -9641,21 +9560,27 @@
           "type": "anime",
           "name": "Action",
           "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 23,
+          "mal_id": 13,
           "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        },
-        {
-          "mal_id": 31,
-          "type": "anime",
-          "name": "Super Power",
-          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
         }
       ],
       "demographics": [
@@ -9671,10 +9596,16 @@
           "relation": "Sequel",
           "entry": [
             {
-              "mal_id": 33486,
+              "mal_id": 40456,
               "type": "anime",
-              "name": "Boku no Hero Academia 2nd Season",
-              "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season"
+              "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+              "url": "https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen"
+            },
+            {
+              "mal_id": 49926,
+              "type": "anime",
+              "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+              "url": "https://myanimelist.net/anime/49926/Kimetsu_no_Yaiba__Mugen_Ressha-hen"
             }
           ]
         },
@@ -9682,89 +9613,394 @@
           "relation": "Adaptation",
           "entry": [
             {
-              "mal_id": 75989,
+              "mal_id": 160805,
               "type": "manga",
-              "name": "Boku no Hero Academia",
-              "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+              "name": "Kimetsu no Yaiba Novelize",
+              "url": "https://myanimelist.net/manga/160805/Kimetsu_no_Yaiba_Novelize"
+            },
+            {
+              "mal_id": 153037,
+              "type": "manga",
+              "name": "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
+              "url": "https://myanimelist.net/manga/153037/Gekijouban_Kimetsu_no_Yaiba__Mugen_Ressha-hen_Novelize"
+            },
+            {
+              "mal_id": 96792,
+              "type": "manga",
+              "name": "Kimetsu no Yaiba",
+              "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
             }
           ]
         },
         {
-          "relation": "Side Story",
+          "relation": "Other",
           "entry": [
             {
-              "mal_id": 33929,
+              "mal_id": 48861,
               "type": "anime",
-              "name": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
-              "url": "https://myanimelist.net/anime/33929/Boku_no_Hero_Academia__Sukue_Kyuujo_Kunren"
-            }
-          ]
-        },
-        {
-          "relation": "Spin-Off",
-          "entry": [
+              "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+              "url": "https://myanimelist.net/anime/48861/Chuukou_Ikkan_Kimetsu_Gakuen_Monogatari__Kimetsu_no_Utage_Tokubetsu-hen"
+            },
             {
-              "mal_id": 60593,
+              "mal_id": 47398,
               "type": "anime",
-              "name": "Vigilante: Boku no Hero Academia Illegals",
-              "url": "https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals"
-            }
-          ]
-        },
-        {
-          "relation": "Summary",
-          "entry": [
+              "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+              "url": "https://myanimelist.net/anime/47398/Chuukou_Ikkan_Kimetsu_Gakuen_Monogatari__Valentine-hen"
+            },
             {
-              "mal_id": 35262,
+              "mal_id": 61179,
               "type": "anime",
-              "name": "Boku no Hero Academia: Hero Note",
-              "url": "https://myanimelist.net/anime/35262/Boku_no_Hero_Academia__Hero_Note"
+              "name": "Kimetsu no Yaiba x MLB",
+              "url": "https://myanimelist.net/anime/61179/Kimetsu_no_Yaiba_x_MLB"
             }
           ]
         }
       ],
       "theme": {
         "openings": [
-          "\"The Day\" by Porno Graffitti"
+          "\"Gurenge (紅蓮華)\" by LiSA"
         ],
         "endings": [
-          "\"HEROES\" by Brian the Sun"
+          "1: \"Gurenge (紅蓮華)\" by LiSA (eps 1, 26)",
+          "2: \"from the edge\" by FictionJunction feat. LiSA (eps 2-18, 20-25)",
+          "3: \"Kamado Tanjirou no Uta (竈門炭治郎のうた)\" by Go Shiina ft. Nami Nakagawa (eps 19)"
         ]
       },
       "external": [
         {
           "name": "Official Site",
-          "url": "http://www.heroaca.com/"
+          "url": "https://demonslayer-anime.com/risshihen/"
         },
         {
-          "name": "@heroaca_anime",
-          "url": "https://twitter.com/heroaca_anime"
+          "name": "Official Site",
+          "url": "https://kimetsu.com/anime/risshihen/"
         },
         {
-          "name": "@MHAOfficial",
-          "url": "https://twitter.com/MHAOfficial"
+          "name": "@kimetsu_off",
+          "url": "https://twitter.com/kimetsu_off"
         },
         {
           "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11739"
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14107"
         },
         {
           "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786"
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21101"
         },
         {
           "name": "Wikipedia",
-          "url": "http://en.wikipedia.org/wiki/My_Hero_Academia"
+          "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/5253"
+        },
+        {
+          "name": "Bangumi",
+          "url": "https://bangumi.tv/subject/245665"
         }
       ],
       "streaming": [
         {
           "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-272617"
+          "url": "http://www.crunchyroll.com/series-277768"
         },
         {
           "name": "Netflix",
-          "url": "https://www.netflix.com/"
+          "url": "https://www.netflix.com/title/81091393"
+        }
+      ]
+    },
+    "39486": {
+      "mal_id": 39486,
+      "url": "https://myanimelist.net/anime/39486/Gintama__The_Final",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1245/116760.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/Zn1filVUyf8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Gintama: The Final"
+        },
+        {
+          "type": "Japanese",
+          "title": "銀魂 THE FINAL"
+        },
+        {
+          "type": "English",
+          "title": "Gintama: The Very Final"
+        },
+        {
+          "type": "German",
+          "title": "N/A"
+        }
+      ],
+      "title": "Gintama: The Final",
+      "title_english": "Gintama: The Very Final",
+      "title_japanese": "銀魂 THE FINAL",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-01-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 1,
+            "year": 2021
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 8, 2021"
+      },
+      "duration": "1 hr 44 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 9.05,
+      "scored_by": 88047,
+      "rank": 7,
+      "popularity": 1505,
+      "members": 186354,
+      "favorites": 4704,
+      "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.\n\nLater, the regrouped Shinsengumi and Yorozuya begin an attack on the occupied Central Terminal. With the Altana harvested by the wreckage of the Tendoshuu's ship in danger of detonating, the Yorozuya and their allies fight their enemies while the safety of Edo—and the rest of the world—hangs in the balance. Fulfilling the wishes of their teacher, Shouyou Yoshida's former students unite and relive their pasts one final time in an attempt to save their futures.\n\n[Written by MAL Rewrite]",
+      "background": "As of March 2021, Gintama: The Final has earned a franchise record of 1.85 billion yen (16.94 million USD) and debuted at No. 1 at the Japanese box office. The film concludes the Gintama anime series, adapting chapters 699-704 of the original manga with new story elements.",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 16,
+          "type": "anime",
+          "name": "TV Tokyo",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 230,
+          "type": "anime",
+          "name": "Bandai",
+          "url": "https://myanimelist.net/anime/producer/230/Bandai"
+        },
+        {
+          "mal_id": 415,
+          "type": "anime",
+          "name": "Warner Bros. Japan",
+          "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 531,
+          "type": "anime",
+          "name": "Eleven Arts",
+          "url": "https://myanimelist.net/anime/producer/531/Eleven_Arts"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1258,
+          "type": "anime",
+          "name": "Bandai Namco Pictures",
+          "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 57,
+          "type": "anime",
+          "name": "Gag Humor",
+          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+        },
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 20,
+          "type": "anime",
+          "name": "Parody",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 21,
+          "type": "anime",
+          "name": "Samurai",
+          "url": "https://myanimelist.net/anime/genre/21/Samurai"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "Prequel",
+          "entry": [
+            {
+              "mal_id": 44087,
+              "type": "anime",
+              "name": "Gintama: The Semi-Final",
+              "url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final"
+            }
+          ]
+        },
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 44,
+              "type": "manga",
+              "name": "Gintama",
+              "url": "https://myanimelist.net/manga/44/Gintama"
+            }
+          ]
+        },
+        {
+          "relation": "Other",
+          "entry": [
+            {
+              "mal_id": 48436,
+              "type": "anime",
+              "name": "Gintama: The Final x Mameshiba",
+              "url": "https://myanimelist.net/anime/48436/Gintama__The_Final_x_Mameshiba"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [
+          "\"Wadachi (轍)\" by SPYAIR"
+        ],
+        "endings": [
+          "\"Wadachi (轍～Wadachi～)\" by SPYAIR"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "http://www.tv-tokyo.co.jp/anime/gintama/"
+        },
+        {
+          "name": "@gintamamovie",
+          "url": "https://twitter.com/gintamamovie"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14719"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23828"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gin_Tama#Animation"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_THE_FINAL"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/5909"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "http://www.crunchyroll.com/series-283427"
+        },
+        {
+          "name": "Shahid",
+          "url": "https://shahid.mbc.net/en/movies/Gintama:-The-Final/movie-919805"
         }
       ]
     },
