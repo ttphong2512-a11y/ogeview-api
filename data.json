@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T21:14:44.885Z",
+  "updated": "2026-08-02T22:16:08.321Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -9106,25 +9106,25 @@
         }
       ]
     },
-    "31964": {
-      "mal_id": 31964,
-      "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+    "38000": {
+      "mal_id": 38000,
+      "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
       "images": {
         "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
         },
         "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
         }
       },
       "trailer": {
         "youtube_id": null,
         "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embed_url": "https://www.youtube-nocookie.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1",
         "images": {
           "image_url": null,
           "small_image_url": null,
@@ -9137,97 +9137,91 @@
       "titles": [
         {
           "type": "Default",
-          "title": "Boku no Hero Academia"
+          "title": "Kimetsu no Yaiba"
+        },
+        {
+          "type": "Synonym",
+          "title": "Blade of Demon Destruction"
         },
         {
           "type": "Japanese",
-          "title": "僕のヒーローアカデミア"
+          "title": "鬼滅の刃"
         },
         {
           "type": "English",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer: Kimetsu no Yaiba"
         },
         {
           "type": "German",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer"
         },
         {
           "type": "Spanish",
-          "title": "My Hero Academia"
+          "title": "Guardianes De La Noche: Kimetsu no Yaiba"
         },
         {
           "type": "French",
-          "title": "My Hero Academia"
+          "title": "Demon Slayer"
         }
       ],
-      "title": "Boku no Hero Academia",
-      "title_english": "My Hero Academia",
-      "title_japanese": "僕のヒーローアカデミア",
-      "title_synonyms": [],
+      "title": "Kimetsu no Yaiba",
+      "title_english": "Demon Slayer: Kimetsu no Yaiba",
+      "title_japanese": "鬼滅の刃",
+      "title_synonyms": [
+        "Blade of Demon Destruction"
+      ],
       "type": "TV",
       "source": "Manga",
-      "episodes": 13,
+      "episodes": 26,
       "status": "Finished Airing",
       "airing": false,
       "aired": {
-        "from": "2016-04-03T00:00:00+00:00",
-        "to": "2016-06-26T00:00:00+00:00",
+        "from": "2019-04-06T00:00:00+00:00",
+        "to": "2019-09-28T00:00:00+00:00",
         "prop": {
           "from": {
-            "day": 3,
+            "day": 6,
             "month": 4,
-            "year": 2016
+            "year": 2019
           },
           "to": {
-            "day": 26,
-            "month": 6,
-            "year": 2016
+            "day": 28,
+            "month": 9,
+            "year": 2019
           }
         },
-        "string": "Apr 3, 2016 to Jun 26, 2016"
+        "string": "Apr 6, 2019 to Sep 28, 2019"
       },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.82,
-      "scored_by": 2254235,
-      "rank": 1106,
-      "popularity": 6,
-      "members": 3329976,
-      "favorites": 55544,
-      "synopsis": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\n\nSince he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!\n\nEnduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.\n\n[Written by MAL Rewrite]",
-      "background": "Mangaka Kouhei Horikoshi has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.4,
+      "scored_by": 2384496,
+      "rank": 235,
+      "popularity": 5,
+      "members": 3479828,
+      "favorites": 95186,
+      "synopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.\n\nWhen he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.\n\n[Written by MAL Rewrite]",
+      "background": "The anime covers chapters 1 to 53 of the manga. Kimetsu no Yaiba won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2020.",
       "season": "spring",
-      "year": 2016,
+      "year": 2019,
       "broadcast": {
-        "day": "Sundays",
-        "time": "17:00",
+        "day": "Saturdays",
+        "time": "23:30",
         "timezone": "Asia/Tokyo",
-        "string": "Sundays at 17:00 (JST)"
+        "string": "Saturdays at 23:30 (JST)"
       },
       "producers": [
         {
-          "mal_id": 53,
+          "mal_id": 17,
           "type": "anime",
-          "name": "Dentsu",
-          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+          "name": "Aniplex",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
         },
         {
-          "mal_id": 143,
+          "mal_id": 719,
           "type": "anime",
-          "name": "Mainichi Broadcasting System",
-          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
-        },
-        {
-          "mal_id": 166,
-          "type": "anime",
-          "name": "Movic",
-          "url": "https://myanimelist.net/anime/producer/166/Movic"
-        },
-        {
-          "mal_id": 1143,
-          "type": "anime",
-          "name": "TOHO animation",
-          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
         },
         {
           "mal_id": 1365,
@@ -9238,18 +9232,18 @@
       ],
       "licensors": [
         {
-          "mal_id": 102,
+          "mal_id": 493,
           "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+          "name": "Aniplex of America",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
         }
       ],
       "studios": [
         {
-          "mal_id": 4,
+          "mal_id": 43,
           "type": "anime",
-          "name": "Bones",
-          "url": "https://myanimelist.net/anime/producer/4/Bones"
+          "name": "ufotable",
+          "url": "https://myanimelist.net/anime/producer/43/ufotable"
         }
       ],
       "genres": [
@@ -9258,21 +9252,27 @@
           "type": "anime",
           "name": "Action",
           "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 46,
+          "type": "anime",
+          "name": "Award Winning",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
         }
       ],
       "explicit_genres": [],
       "themes": [
         {
-          "mal_id": 23,
+          "mal_id": 13,
           "type": "anime",
-          "name": "School",
-          "url": "https://myanimelist.net/anime/genre/23/School"
-        },
-        {
-          "mal_id": 31,
-          "type": "anime",
-          "name": "Super Power",
-          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
         }
       ],
       "demographics": [
@@ -9288,10 +9288,16 @@
           "relation": "Sequel",
           "entry": [
             {
-              "mal_id": 33486,
+              "mal_id": 40456,
               "type": "anime",
-              "name": "Boku no Hero Academia 2nd Season",
-              "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season"
+              "name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+              "url": "https://myanimelist.net/anime/40456/Kimetsu_no_Yaiba_Movie__Mugen_Ressha-hen"
+            },
+            {
+              "mal_id": 49926,
+              "type": "anime",
+              "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+              "url": "https://myanimelist.net/anime/49926/Kimetsu_no_Yaiba__Mugen_Ressha-hen"
             }
           ]
         },
@@ -9299,89 +9305,105 @@
           "relation": "Adaptation",
           "entry": [
             {
-              "mal_id": 75989,
+              "mal_id": 160805,
               "type": "manga",
-              "name": "Boku no Hero Academia",
-              "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+              "name": "Kimetsu no Yaiba Novelize",
+              "url": "https://myanimelist.net/manga/160805/Kimetsu_no_Yaiba_Novelize"
+            },
+            {
+              "mal_id": 153037,
+              "type": "manga",
+              "name": "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
+              "url": "https://myanimelist.net/manga/153037/Gekijouban_Kimetsu_no_Yaiba__Mugen_Ressha-hen_Novelize"
+            },
+            {
+              "mal_id": 96792,
+              "type": "manga",
+              "name": "Kimetsu no Yaiba",
+              "url": "https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba"
             }
           ]
         },
         {
-          "relation": "Side Story",
+          "relation": "Other",
           "entry": [
             {
-              "mal_id": 33929,
+              "mal_id": 48861,
               "type": "anime",
-              "name": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
-              "url": "https://myanimelist.net/anime/33929/Boku_no_Hero_Academia__Sukue_Kyuujo_Kunren"
-            }
-          ]
-        },
-        {
-          "relation": "Spin-Off",
-          "entry": [
+              "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+              "url": "https://myanimelist.net/anime/48861/Chuukou_Ikkan_Kimetsu_Gakuen_Monogatari__Kimetsu_no_Utage_Tokubetsu-hen"
+            },
             {
-              "mal_id": 60593,
+              "mal_id": 47398,
               "type": "anime",
-              "name": "Vigilante: Boku no Hero Academia Illegals",
-              "url": "https://myanimelist.net/anime/60593/Vigilante__Boku_no_Hero_Academia_Illegals"
-            }
-          ]
-        },
-        {
-          "relation": "Summary",
-          "entry": [
+              "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+              "url": "https://myanimelist.net/anime/47398/Chuukou_Ikkan_Kimetsu_Gakuen_Monogatari__Valentine-hen"
+            },
             {
-              "mal_id": 35262,
+              "mal_id": 61179,
               "type": "anime",
-              "name": "Boku no Hero Academia: Hero Note",
-              "url": "https://myanimelist.net/anime/35262/Boku_no_Hero_Academia__Hero_Note"
+              "name": "Kimetsu no Yaiba x MLB",
+              "url": "https://myanimelist.net/anime/61179/Kimetsu_no_Yaiba_x_MLB"
             }
           ]
         }
       ],
       "theme": {
         "openings": [
-          "\"The Day\" by Porno Graffitti"
+          "\"Gurenge (紅蓮華)\" by LiSA"
         ],
         "endings": [
-          "\"HEROES\" by Brian the Sun"
+          "1: \"Gurenge (紅蓮華)\" by LiSA (eps 1, 26)",
+          "2: \"from the edge\" by FictionJunction feat. LiSA (eps 2-18, 20-25)",
+          "3: \"Kamado Tanjirou no Uta (竈門炭治郎のうた)\" by Go Shiina ft. Nami Nakagawa (eps 19)"
         ]
       },
       "external": [
         {
           "name": "Official Site",
-          "url": "http://www.heroaca.com/"
+          "url": "https://demonslayer-anime.com/risshihen/"
         },
         {
-          "name": "@heroaca_anime",
-          "url": "https://twitter.com/heroaca_anime"
+          "name": "Official Site",
+          "url": "https://kimetsu.com/anime/risshihen/"
         },
         {
-          "name": "@MHAOfficial",
-          "url": "https://twitter.com/MHAOfficial"
+          "name": "@kimetsu_off",
+          "url": "https://twitter.com/kimetsu_off"
         },
         {
           "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11739"
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14107"
         },
         {
           "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786"
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21101"
         },
         {
           "name": "Wikipedia",
-          "url": "http://en.wikipedia.org/wiki/My_Hero_Academia"
+          "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/5253"
+        },
+        {
+          "name": "Bangumi",
+          "url": "https://bangumi.tv/subject/245665"
         }
       ],
       "streaming": [
         {
           "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-272617"
+          "url": "http://www.crunchyroll.com/series-277768"
         },
         {
           "name": "Netflix",
-          "url": "https://www.netflix.com/"
+          "url": "https://www.netflix.com/title/81091393"
         }
       ]
     },
