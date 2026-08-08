@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T15:53:02.488Z",
+  "updated": "2026-08-08T16:18:02.760Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -7784,321 +7784,6 @@
         }
       ]
     },
-    "9253": {
-      "mal_id": 9253,
-      "url": "https://myanimelist.net/anime/9253/Steins_Gate",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/27OZc-ku6is?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Steins;Gate"
-        },
-        {
-          "type": "Japanese",
-          "title": "STEINS;GATE"
-        },
-        {
-          "type": "English",
-          "title": "Steins;Gate"
-        }
-      ],
-      "title": "Steins;Gate",
-      "title_english": "Steins;Gate",
-      "title_japanese": "STEINS;GATE",
-      "title_synonyms": [],
-      "type": "TV",
-      "source": "Visual novel",
-      "episodes": 24,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2011-04-06T00:00:00+00:00",
-        "to": "2011-09-14T00:00:00+00:00",
-        "prop": {
-          "from": {
-            "day": 6,
-            "month": 4,
-            "year": 2011
-          },
-          "to": {
-            "day": 14,
-            "month": 9,
-            "year": 2011
-          }
-        },
-        "string": "Apr 6, 2011 to Sep 14, 2011"
-      },
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 9.07,
-      "scored_by": 1530479,
-      "rank": 5,
-      "popularity": 14,
-      "members": 2832555,
-      "favorites": 203715,
-      "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.\n\nHowever, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN.\n\nDue to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity.\n\n[Written by MAL Rewrite]",
-      "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
-      "season": "spring",
-      "year": 2011,
-      "broadcast": {
-        "day": "Wednesdays",
-        "time": "02:05",
-        "timezone": "Asia/Tokyo",
-        "string": "Wednesdays at 02:05 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 61,
-          "type": "anime",
-          "name": "Frontier Works",
-          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
-        },
-        {
-          "mal_id": 108,
-          "type": "anime",
-          "name": "Media Factory",
-          "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
-        },
-        {
-          "mal_id": 113,
-          "type": "anime",
-          "name": "Kadokawa Shoten",
-          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
-        },
-        {
-          "mal_id": 166,
-          "type": "anime",
-          "name": "Movic",
-          "url": "https://myanimelist.net/anime/producer/166/Movic"
-        },
-        {
-          "mal_id": 238,
-          "type": "anime",
-          "name": "AT-X",
-          "url": "https://myanimelist.net/anime/producer/238/AT-X"
-        },
-        {
-          "mal_id": 352,
-          "type": "anime",
-          "name": "Kadokawa Pictures Japan",
-          "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
-        },
-        {
-          "mal_id": 459,
-          "type": "anime",
-          "name": "Nitroplus",
-          "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
-        },
-        {
-          "mal_id": 963,
-          "type": "anime",
-          "name": "MAGES.",
-          "url": "https://myanimelist.net/anime/producer/963/MAGES"
-        }
-      ],
-      "licensors": [
-        {
-          "mal_id": 102,
-          "type": "anime",
-          "name": "Funimation",
-          "url": "https://myanimelist.net/anime/producer/102/Funimation"
-        }
-      ],
-      "studios": [
-        {
-          "mal_id": 314,
-          "type": "anime",
-          "name": "White Fox",
-          "url": "https://myanimelist.net/anime/producer/314/White_Fox"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        },
-        {
-          "mal_id": 24,
-          "type": "anime",
-          "name": "Sci-Fi",
-          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
-        },
-        {
-          "mal_id": 41,
-          "type": "anime",
-          "name": "Suspense",
-          "url": "https://myanimelist.net/anime/genre/41/Suspense"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 40,
-          "type": "anime",
-          "name": "Psychological",
-          "url": "https://myanimelist.net/anime/genre/40/Psychological"
-        },
-        {
-          "mal_id": 78,
-          "type": "anime",
-          "name": "Time Travel",
-          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
-        }
-      ],
-      "demographics": [],
-      "relations": [
-        {
-          "relation": "Sequel",
-          "entry": [
-            {
-              "mal_id": 10863,
-              "type": "anime",
-              "name": "Steins;Gate: Oukoubakko no Poriomania",
-              "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania"
-            }
-          ]
-        },
-        {
-          "relation": "Adaptation",
-          "entry": [
-            {
-              "mal_id": 17517,
-              "type": "manga",
-              "name": "Steins;Gate",
-              "url": "https://myanimelist.net/manga/17517/Steins_Gate"
-            }
-          ]
-        },
-        {
-          "relation": "Alternative Version",
-          "entry": [
-            {
-              "mal_id": 32188,
-              "type": "anime",
-              "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-              "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero"
-            }
-          ]
-        },
-        {
-          "relation": "Alternative Setting",
-          "entry": [
-            {
-              "mal_id": 4975,
-              "type": "anime",
-              "name": "ChäoS;HEAd",
-              "url": "https://myanimelist.net/anime/4975/ChäoS_HEAd"
-            },
-            {
-              "mal_id": 13599,
-              "type": "anime",
-              "name": "Robotics;Notes",
-              "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
-            },
-            {
-              "mal_id": 32962,
-              "type": "anime",
-              "name": "Occultic;Nine",
-              "url": "https://myanimelist.net/anime/32962/Occultic_Nine"
-            },
-            {
-              "mal_id": 30485,
-              "type": "anime",
-              "name": "ChäoS;Child",
-              "url": "https://myanimelist.net/anime/30485/ChäoS_Child"
-            }
-          ]
-        },
-        {
-          "relation": "Other",
-          "entry": [
-            {
-              "mal_id": 27957,
-              "type": "anime",
-              "name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
-              "url": "https://myanimelist.net/anime/27957/Steins_Gate__Soumei_Eichi_no_Cognitive_Computing"
-            }
-          ]
-        }
-      ],
-      "theme": {
-        "openings": [
-          "\"Hacking to the Gate\" by Kanako Itou"
-        ],
-        "endings": [
-          "1: \"Toki Tsukasadoru Juuni no Meiyaku (刻司ル十二ノ盟約)\" by Yui Sakakibara (eps 1-21)",
-          "2: \"Fake Verthandi\" by Takeshi Abo (eps 22)",
-          "3: \"Sky Clad no Kansokusha (スカイクラッドの観測者)\" by Kanako Itou (eps 23)",
-          "4: \"Another Heaven\" by Kanako Itou (eps 24)"
-        ]
-      },
-      "external": [
-        {
-          "name": "Official Site",
-          "url": "http://www.steinsgate.tv/"
-        },
-        {
-          "name": "@sg_anime",
-          "url": "https://twitter.com/sg_anime"
-        },
-        {
-          "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7729"
-        },
-        {
-          "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11770"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "http://en.wikipedia.org/wiki/Steins;Gate"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://ja.wikipedia.org/wiki/STEINS;GATE_(アニメ)#テレビアニメ第1作"
-        },
-        {
-          "name": "Syoboi",
-          "url": "https://cal.syoboi.jp/tid/2142"
-        }
-      ],
-      "streaming": [
-        {
-          "name": "Crunchyroll",
-          "url": "http://www.crunchyroll.com/series-229050"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/"
-        }
-      ]
-    },
     "11757": {
       "mal_id": 11757,
       "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
@@ -12314,6 +11999,255 @@
         {
           "name": "Muse Asia",
           "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+        }
+      ]
+    },
+    "61469": {
+      "mal_id": 61469,
+      "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1448/154111.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/154111t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/154111l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1448/154111.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/154111t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/154111l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/TWw06YDOQy0?si=SxzUyy3Q-7R6PxzG?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Steel Ball Run: JoJo no Kimyou na Bouken"
+        },
+        {
+          "type": "Synonym",
+          "title": "JoJo's Bizarre Adventure Part 7: Steel Ball Run"
+        },
+        {
+          "type": "Synonym",
+          "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+        },
+        {
+          "type": "Synonym",
+          "title": "SBR"
+        },
+        {
+          "type": "Japanese",
+          "title": "スティール・ボール・ラン ジョジョの奇妙な冒険"
+        },
+        {
+          "type": "English",
+          "title": "Steel Ball Run: JoJo's Bizarre Adventure"
+        }
+      ],
+      "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+      "title_english": "Steel Ball Run: JoJo's Bizarre Adventure",
+      "title_japanese": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+      "title_synonyms": [
+        "JoJo's Bizarre Adventure Part 7: Steel Ball Run",
+        "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+        "SBR"
+      ],
+      "type": "ONA",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-03-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 19, 2026 to ?"
+      },
+      "duration": "47 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 9.1,
+      "scored_by": 100196,
+      "rank": 4,
+      "popularity": 1295,
+      "members": 220668,
+      "favorites": 7585,
+      "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+      "background": "",
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 415,
+          "type": "anime",
+          "name": "Warner Bros. Japan",
+          "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+          "mal_id": 719,
+          "type": "anime",
+          "name": "Studio Mausu",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1783,
+          "type": "anime",
+          "name": "ONEMUSIC",
+          "url": "https://myanimelist.net/anime/producer/1783/ONEMUSIC"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 287,
+          "type": "anime",
+          "name": "David Production",
+          "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 7,
+          "type": "anime",
+          "name": "Mystery",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 3,
+          "type": "anime",
+          "name": "Racing",
+          "url": "https://myanimelist.net/anime/genre/3/Racing"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 42,
+          "type": "anime",
+          "name": "Seinen",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "Prequel",
+          "entry": [
+            {
+              "mal_id": 53273,
+              "type": "anime",
+              "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+              "url": "https://myanimelist.net/anime/53273/JoJo_no_Kimyou_na_Bouken_Part_6__Stone_Ocean_Part_3"
+            }
+          ]
+        },
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 1706,
+              "type": "manga",
+              "name": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+              "url": "https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [],
+        "endings": [
+          "\"Dance with STEEL BALL RUN\" by Yuugo Kanno (菅野祐悟)"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "https://jojo-portal-anime.com/sbr/"
+        },
+        {
+          "name": "@anime_jojo",
+          "url": "https://twitter.com/anime_jojo"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19287"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35638"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Steel_Ball_Run#Anime_adaptation"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%B3"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/"
         }
       ]
     },
