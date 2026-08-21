@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:44:29.600Z",
+  "updated": "2026-08-21T20:12:27.562Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -13030,6 +13030,209 @@
         }
       ]
     },
+    "61483": {
+      "mal_id": 61483,
+      "url": "https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/158891.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/7gCitSBXW6w?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tenmaku no Jaadugar"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tenmaku no Jadugar"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tenmaku no Jadoogar"
+        },
+        {
+          "type": "Synonym",
+          "title": "A Witch's Life in Mongol"
+        },
+        {
+          "type": "Japanese",
+          "title": "天幕のジャードゥーガル"
+        },
+        {
+          "type": "English",
+          "title": "Jaadugar: A Witch in Mongolia"
+        }
+      ],
+      "title": "Tenmaku no Jaadugar",
+      "title_english": "Jaadugar: A Witch in Mongolia",
+      "title_japanese": "天幕のジャードゥーガル",
+      "title_synonyms": [
+        "Tenmaku no Jadugar",
+        "Tenmaku no Jadoogar",
+        "A Witch's Life in Mongol"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": null,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-07-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 4, 2026 to ?"
+      },
+      "duration": "23 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.39,
+      "scored_by": 4404,
+      "rank": 246,
+      "popularity": 3863,
+      "members": 45292,
+      "favorites": 210,
+      "synopsis": "In the harem of the Khan, wisdom is beauty. The time: the thirteenth century. The place: Yeke Mongol Ulus, the greatest empire the world has ever known. The woman: Fatima, hailing from Persia, where medical technique and scientific knowledge have been perfected beyond all precedent. Fatima's desire for a stage where she can put her knowledge to work has brought her to the palace of the Mongols, where she falls under the wing of Töregene, the sixth wife of Ögedei, the second Great Khan—a mighty woman with complicated feelings about the direction of the empire. These two women are the axel upon which the politics of the palace, and soon the very world, will turn...\n\n(Source: Yen Press)",
+      "background": "Tenmaku no Jaadugar aired on TV Asahi's IMAnimation block.",
+      "season": "summer",
+      "year": 2026,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 23:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 2074,
+          "type": "anime",
+          "name": "Bit grooove promotion",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 1591,
+          "type": "anime",
+          "name": "Science SARU",
+          "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 13,
+          "type": "anime",
+          "name": "Historical",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "demographics": [],
+      "relations": [
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 150977,
+              "type": "manga",
+              "name": "Tenmaku no Jaadugar",
+              "url": "https://myanimelist.net/manga/150977/Tenmaku_no_Jaadugar"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [
+          "\"Stella\" by SEKAI NO OWARI"
+        ],
+        "endings": [
+          "\"Hoshi (星)\" by Ziyoou-vachi (女王蜂)"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "https://anime-jaadugar.com"
+        },
+        {
+          "name": "@anime_jaadugar",
+          "url": "https://twitter.com/anime_jaadugar"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19290"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35665"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A_Witch's_Life_in_Mongol#Anime"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/天幕のジャードゥーガル#テレビアニメ"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/7907"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/"
+        },
+        {
+          "name": "Aniplus Asia",
+          "url": "https://www.aniplus-asia.com/"
+        },
+        {
+          "name": "Bahamut Anime Crazy",
+          "url": "https://ani.gamer.com.tw/"
+        }
+      ]
+    },
     "61897": {
       "mal_id": 61897,
       "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
@@ -14037,234 +14240,6 @@
         {
           "name": "Bahamut Anime Crazy",
           "url": "https://ani.gamer.com.tw/"
-        }
-      ]
-    },
-    "62856": {
-      "mal_id": 62856,
-      "url": "https://myanimelist.net/anime/62856/Nijusseiki_Denki_Mokuroku__Eureka_Evrika",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1068/158475.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1068/158475.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/-W2vs2etG9o?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Nijusseiki Denki Mokuroku: Eureka Evrika"
-        },
-        {
-          "type": "Synonym",
-          "title": "20th Century Electricity Catalog"
-        },
-        {
-          "type": "Japanese",
-          "title": "二十世紀電氣目録-ユーレカ・エヴリカ-"
-        },
-        {
-          "type": "English",
-          "title": "Sparks of Tomorrow"
-        }
-      ],
-      "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-      "title_english": "Sparks of Tomorrow",
-      "title_japanese": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-      "title_synonyms": [
-        "20th Century Electricity Catalog"
-      ],
-      "type": "TV",
-      "source": "Light novel",
-      "episodes": 13,
-      "status": "Currently Airing",
-      "airing": true,
-      "aired": {
-        "from": "2026-07-05T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 5,
-            "month": 7,
-            "year": 2026
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Jul 5, 2026 to ?"
-      },
-      "duration": "25 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.72,
-      "scored_by": 2996,
-      "rank": 1391,
-      "popularity": 3517,
-      "members": 53371,
-      "favorites": 141,
-      "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)",
-      "background": "",
-      "season": "summer",
-      "year": 2026,
-      "broadcast": {
-        "day": "Sundays",
-        "time": "23:00",
-        "timezone": "Asia/Tokyo",
-        "string": "Sundays at 23:00 (JST)"
-      },
-      "producers": [
-        {
-          "mal_id": 104,
-          "type": "anime",
-          "name": "Lantis",
-          "url": "https://myanimelist.net/anime/producer/104/Lantis"
-        },
-        {
-          "mal_id": 144,
-          "type": "anime",
-          "name": "Pony Canyon",
-          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
-        },
-        {
-          "mal_id": 211,
-          "type": "anime",
-          "name": "Rakuonsha",
-          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
-        },
-        {
-          "mal_id": 1500,
-          "type": "anime",
-          "name": "ABC Animation",
-          "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
-        },
-        {
-          "mal_id": 2147,
-          "type": "anime",
-          "name": "Heart Company",
-          "url": "https://myanimelist.net/anime/producer/2147/Heart_Company"
-        },
-        {
-          "mal_id": 2425,
-          "type": "anime",
-          "name": "Bandai Namco Music Live",
-          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
-        }
-      ],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 2,
-          "type": "anime",
-          "name": "Kyoto Animation",
-          "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 8,
-          "type": "anime",
-          "name": "Drama",
-          "url": "https://myanimelist.net/anime/genre/8/Drama"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 13,
-          "type": "anime",
-          "name": "Historical",
-          "url": "https://myanimelist.net/anime/genre/13/Historical"
-        }
-      ],
-      "demographics": [],
-      "relations": [
-        {
-          "relation": "Adaptation",
-          "entry": [
-            {
-              "mal_id": 120130,
-              "type": "manga",
-              "name": "Nijusseiki Denki Mokuroku",
-              "url": "https://myanimelist.net/manga/120130/Nijusseiki_Denki_Mokuroku"
-            }
-          ]
-        },
-        {
-          "relation": "Other",
-          "entry": [
-            {
-              "mal_id": 49395,
-              "type": "anime",
-              "name": "Kyoto Animation: Meiji-hen",
-              "url": "https://myanimelist.net/anime/49395/Kyoto_Animation__Meiji-hen"
-            }
-          ]
-        }
-      ],
-      "theme": {
-        "openings": [
-          "\"Eureka Evrika (ユーレカ・エヴリカ)\" by Luna Goami (五阿弥ルナ)"
-        ],
-        "endings": []
-      },
-      "external": [
-        {
-          "name": "Official Site",
-          "url": "http://denkimokuroku.jp"
-        },
-        {
-          "name": "@denkimokuroku",
-          "url": "https://twitter.com/denkimokuroku"
-        },
-        {
-          "name": "@Sparks_of_Tmr",
-          "url": "https://twitter.com/Sparks_of_Tmr"
-        },
-        {
-          "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14236"
-        },
-        {
-          "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=37941"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/20_Seiki_Denki_Mokuroku#Anime"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://ja.wikipedia.org/wiki/二十世紀電氣目録#テレビアニメ"
-        },
-        {
-          "name": "Syoboi",
-          "url": "https://cal.syoboi.jp/tid/7913"
-        }
-      ],
-      "streaming": [
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/"
         }
       ]
     },
