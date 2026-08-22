@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T17:10:37.095Z",
+  "updated": "2026-08-22T17:42:32.493Z",
   "season": {
     "pagination": {
       "last_visible_page": 8,
@@ -7852,6 +7852,321 @@
         }
       ]
     },
+    "9253": {
+      "mal_id": 9253,
+      "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/27OZc-ku6is?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Steins;Gate"
+        },
+        {
+          "type": "Japanese",
+          "title": "STEINS;GATE"
+        },
+        {
+          "type": "English",
+          "title": "Steins;Gate"
+        }
+      ],
+      "title": "Steins;Gate",
+      "title_english": "Steins;Gate",
+      "title_japanese": "STEINS;GATE",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Visual novel",
+      "episodes": 24,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2011-04-06T00:00:00+00:00",
+        "to": "2011-09-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2011
+          },
+          "to": {
+            "day": 14,
+            "month": 9,
+            "year": 2011
+          }
+        },
+        "string": "Apr 6, 2011 to Sep 14, 2011"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 9.07,
+      "scored_by": 1530479,
+      "rank": 5,
+      "popularity": 14,
+      "members": 2832555,
+      "favorites": 203715,
+      "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.\n\nHowever, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN.\n\nDue to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity.\n\n[Written by MAL Rewrite]",
+      "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
+      "season": "spring",
+      "year": 2011,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "02:05",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 02:05 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Frontier Works",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 108,
+          "type": "anime",
+          "name": "Media Factory",
+          "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+        },
+        {
+          "mal_id": 113,
+          "type": "anime",
+          "name": "Kadokawa Shoten",
+          "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 352,
+          "type": "anime",
+          "name": "Kadokawa Pictures Japan",
+          "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+        },
+        {
+          "mal_id": 459,
+          "type": "anime",
+          "name": "Nitroplus",
+          "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+        },
+        {
+          "mal_id": 963,
+          "type": "anime",
+          "name": "MAGES.",
+          "url": "https://myanimelist.net/anime/producer/963/MAGES"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 314,
+          "type": "anime",
+          "name": "White Fox",
+          "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": [],
+      "relations": [
+        {
+          "relation": "Sequel",
+          "entry": [
+            {
+              "mal_id": 10863,
+              "type": "anime",
+              "name": "Steins;Gate: Oukoubakko no Poriomania",
+              "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania"
+            }
+          ]
+        },
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 17517,
+              "type": "manga",
+              "name": "Steins;Gate",
+              "url": "https://myanimelist.net/manga/17517/Steins_Gate"
+            }
+          ]
+        },
+        {
+          "relation": "Alternative Version",
+          "entry": [
+            {
+              "mal_id": 32188,
+              "type": "anime",
+              "name": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+              "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero"
+            }
+          ]
+        },
+        {
+          "relation": "Alternative Setting",
+          "entry": [
+            {
+              "mal_id": 4975,
+              "type": "anime",
+              "name": "ChäoS;HEAd",
+              "url": "https://myanimelist.net/anime/4975/ChäoS_HEAd"
+            },
+            {
+              "mal_id": 13599,
+              "type": "anime",
+              "name": "Robotics;Notes",
+              "url": "https://myanimelist.net/anime/13599/Robotics_Notes"
+            },
+            {
+              "mal_id": 32962,
+              "type": "anime",
+              "name": "Occultic;Nine",
+              "url": "https://myanimelist.net/anime/32962/Occultic_Nine"
+            },
+            {
+              "mal_id": 30485,
+              "type": "anime",
+              "name": "ChäoS;Child",
+              "url": "https://myanimelist.net/anime/30485/ChäoS_Child"
+            }
+          ]
+        },
+        {
+          "relation": "Other",
+          "entry": [
+            {
+              "mal_id": 27957,
+              "type": "anime",
+              "name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+              "url": "https://myanimelist.net/anime/27957/Steins_Gate__Soumei_Eichi_no_Cognitive_Computing"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [
+          "\"Hacking to the Gate\" by Kanako Itou"
+        ],
+        "endings": [
+          "1: \"Toki Tsukasadoru Juuni no Meiyaku (刻司ル十二ノ盟約)\" by Yui Sakakibara (eps 1-21)",
+          "2: \"Fake Verthandi\" by Takeshi Abo (eps 22)",
+          "3: \"Sky Clad no Kansokusha (スカイクラッドの観測者)\" by Kanako Itou (eps 23)",
+          "4: \"Another Heaven\" by Kanako Itou (eps 24)"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "http://www.steinsgate.tv/"
+        },
+        {
+          "name": "@sg_anime",
+          "url": "https://twitter.com/sg_anime"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7729"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11770"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "http://en.wikipedia.org/wiki/Steins;Gate"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/STEINS;GATE_(アニメ)#テレビアニメ第1作"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/2142"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "http://www.crunchyroll.com/series-229050"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/"
+        }
+      ]
+    },
     "11757": {
       "mal_id": 11757,
       "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
@@ -11136,220 +11451,6 @@
         }
       ]
     },
-    "57555": {
-      "mal_id": 57555,
-      "url": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen",
-      "images": {
-        "jpg": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638t.jpg",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
-        },
-        "webp": {
-          "image_url": "https://cdn.myanimelist.net/images/anime/1763/150638.webp",
-          "small_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638t.webp",
-          "large_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.webp"
-        }
-      },
-      "trailer": {
-        "youtube_id": null,
-        "url": null,
-        "embed_url": "https://www.youtube-nocookie.com/embed/pv8A7eubPQQ?enablejsapi=1&wmode=opaque&autoplay=1",
-        "images": {
-          "image_url": null,
-          "small_image_url": null,
-          "medium_image_url": null,
-          "large_image_url": null,
-          "maximum_image_url": null
-        }
-      },
-      "approved": true,
-      "titles": [
-        {
-          "type": "Default",
-          "title": "Chainsaw Man Movie: Reze-hen"
-        },
-        {
-          "type": "Synonym",
-          "title": "Gekijouban Chainsaw Man: Reze-hen"
-        },
-        {
-          "type": "Japanese",
-          "title": "劇場版 チェンソーマン レゼ篇"
-        },
-        {
-          "type": "English",
-          "title": "Chainsaw Man – The Movie: Reze Arc"
-        }
-      ],
-      "title": "Chainsaw Man Movie: Reze-hen",
-      "title_english": "Chainsaw Man – The Movie: Reze Arc",
-      "title_japanese": "劇場版 チェンソーマン レゼ篇",
-      "title_synonyms": [
-        "Gekijouban Chainsaw Man: Reze-hen"
-      ],
-      "type": "Movie",
-      "source": "Manga",
-      "episodes": 1,
-      "status": "Finished Airing",
-      "airing": false,
-      "aired": {
-        "from": "2025-09-19T00:00:00+00:00",
-        "to": null,
-        "prop": {
-          "from": {
-            "day": 19,
-            "month": 9,
-            "year": 2025
-          },
-          "to": {
-            "day": null,
-            "month": null,
-            "year": null
-          }
-        },
-        "string": "Sep 19, 2025"
-      },
-      "duration": "1 hr 39 min",
-      "rating": "R - 17+ (violence & profanity)",
-      "score": 9.06,
-      "scored_by": 333003,
-      "rank": 6,
-      "popularity": 511,
-      "members": 515011,
-      "favorites": 14646,
-      "synopsis": "Despite the immediate challenges following becoming a devil hunter with the Public Safety Bureau, Denji has quickly adapted to his new life and responsibilities. As the chaos of Denji's first ordeal with Public Safety settles down, the elite devil hunter Makima decides to take Denji out on a date. Although the date strengthens his affection for Makima and he swears to not fall in love with anyone else, Denji soon finds himself in a tricky situation when he meets a seemingly innocent cafe worker named Reze.\n\nWith her forward and flirty demeanor, Reze immediately captures Denji's heart, driving him to frequent the cafe where she works and deepen his relationship with her. However, Denji is completely oblivious to the fact that meeting Reze might have grave consequences beyond simply deciding which woman his heart belongs to. \n\n[Written by MAL Rewrite]",
-      "background": "",
-      "season": null,
-      "year": null,
-      "broadcast": {
-        "day": null,
-        "time": null,
-        "timezone": null,
-        "string": null
-      },
-      "producers": [],
-      "licensors": [],
-      "studios": [
-        {
-          "mal_id": 569,
-          "type": "anime",
-          "name": "MAPPA",
-          "url": "https://myanimelist.net/anime/producer/569/MAPPA"
-        }
-      ],
-      "genres": [
-        {
-          "mal_id": 1,
-          "type": "anime",
-          "name": "Action",
-          "url": "https://myanimelist.net/anime/genre/1/Action"
-        },
-        {
-          "mal_id": 10,
-          "type": "anime",
-          "name": "Fantasy",
-          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
-        }
-      ],
-      "explicit_genres": [],
-      "themes": [
-        {
-          "mal_id": 58,
-          "type": "anime",
-          "name": "Gore",
-          "url": "https://myanimelist.net/anime/genre/58/Gore"
-        },
-        {
-          "mal_id": 82,
-          "type": "anime",
-          "name": "Urban Fantasy",
-          "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
-        }
-      ],
-      "demographics": [
-        {
-          "mal_id": 27,
-          "type": "anime",
-          "name": "Shounen",
-          "url": "https://myanimelist.net/anime/genre/27/Shounen"
-        }
-      ],
-      "relations": [
-        {
-          "relation": "Prequel",
-          "entry": [
-            {
-              "mal_id": 44511,
-              "type": "anime",
-              "name": "Chainsaw Man",
-              "url": "https://myanimelist.net/anime/44511/Chainsaw_Man"
-            }
-          ]
-        },
-        {
-          "relation": "Sequel",
-          "entry": [
-            {
-              "mal_id": 63143,
-              "type": "anime",
-              "name": "Chainsaw Man: Shikaku-hen",
-              "url": "https://myanimelist.net/anime/63143/Chainsaw_Man__Shikaku-hen"
-            }
-          ]
-        },
-        {
-          "relation": "Adaptation",
-          "entry": [
-            {
-              "mal_id": 116778,
-              "type": "manga",
-              "name": "Chainsaw Man",
-              "url": "https://myanimelist.net/manga/116778/Chainsaw_Man"
-            }
-          ]
-        }
-      ],
-      "theme": {
-        "openings": [
-          "\"IRIS OUT\" by Kenshi Yonezu (米津玄師)"
-        ],
-        "endings": [
-          "\"JANE DOE\" by Kenshi Yonezu (米津玄師), Hikaru Utada (宇多田ヒカル)"
-        ]
-      },
-      "external": [
-        {
-          "name": "Official Site",
-          "url": "https://chainsawman.dog/movie_reze/"
-        },
-        {
-          "name": "@CHAINSAWMAN_PR",
-          "url": "https://twitter.com/CHAINSAWMAN_PR"
-        },
-        {
-          "name": "@Chainsaw_EN",
-          "url": "https://twitter.com/Chainsaw_EN"
-        },
-        {
-          "name": "AniDB",
-          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18324"
-        },
-        {
-          "name": "ANN",
-          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31068"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Chainsaw_Man_%E2%80%93_The_Movie:_Reze_Arc"
-        },
-        {
-          "name": "Wikipedia",
-          "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E5%8A%87%E5%A0%B4%E3%82%A2%E3%83%8B%E3%83%A1"
-        }
-      ],
-      "streaming": []
-    },
     "58929": {
       "mal_id": 58929,
       "url": "https://myanimelist.net/anime/58929/Koukaku_Kidoutai_TV",
@@ -12360,6 +12461,315 @@
         {
           "name": "Aniplus TV",
           "url": "http://www.aniplustv.com/"
+        },
+        {
+          "name": "Bahamut Anime Crazy",
+          "url": "https://ani.gamer.com.tw/"
+        },
+        {
+          "name": "Muse Asia",
+          "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+        }
+      ]
+    },
+    "61316": {
+      "mal_id": 61316,
+      "url": "https://myanimelist.net/anime/61316/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_4th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1540/155824.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1540/155824.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": "https://www.youtube-nocookie.com/embed/jVl4bY81iIs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "Re: Life in a different world from zero"
+        },
+        {
+          "type": "Synonym",
+          "title": "ReZero"
+        },
+        {
+          "type": "Japanese",
+          "title": "Re:ゼロから始める異世界生活 4th season"
+        },
+        {
+          "type": "English",
+          "title": "Re:ZERO -Starting Life in Another World- Season 4"
+        }
+      ],
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "title_english": "Re:ZERO -Starting Life in Another World- Season 4",
+      "title_japanese": "Re:ゼロから始める異世界生活 4th season",
+      "title_synonyms": [
+        "Re: Life in a different world from zero",
+        "ReZero"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 19,
+      "status": "Currently Airing",
+      "airing": true,
+      "aired": {
+        "from": "2026-04-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 8, 2026 to ?"
+      },
+      "duration": "23 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 9.17,
+      "scored_by": 84783,
+      "rank": 2,
+      "popularity": 974,
+      "members": 290787,
+      "favorites": 6538,
+      "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"Sage\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to the Sage, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa, edited)",
+      "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
+      "season": "spring",
+      "year": 2026,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 306,
+          "type": "anime",
+          "name": "Magic Capsule",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 647,
+          "type": "anime",
+          "name": "Memory-Tech",
+          "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 2927,
+          "type": "anime",
+          "name": "DAXEL",
+          "url": "https://myanimelist.net/anime/producer/2927/DAXEL"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 314,
+          "type": "anime",
+          "name": "White Fox",
+          "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 41,
+          "type": "anime",
+          "name": "Suspense",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 40,
+          "type": "anime",
+          "name": "Psychological",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        },
+        {
+          "mal_id": 78,
+          "type": "anime",
+          "name": "Time Travel",
+          "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+        }
+      ],
+      "demographics": [],
+      "relations": [
+        {
+          "relation": "Prequel",
+          "entry": [
+            {
+              "mal_id": 54857,
+              "type": "anime",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+              "url": "https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season"
+            }
+          ]
+        },
+        {
+          "relation": "Adaptation",
+          "entry": [
+            {
+              "mal_id": 74695,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen",
+              "url": "https://myanimelist.net/manga/74695/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-1_Shou_-_Outo_no_Ichinichi-hen"
+            },
+            {
+              "mal_id": 80719,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen",
+              "url": "https://myanimelist.net/manga/80719/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-2_Shou_-_Yashiki_no_Isshuukan-hen"
+            },
+            {
+              "mal_id": 89960,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero",
+              "url": "https://myanimelist.net/manga/89960/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-3_Shou_-_Truth_of_Zero"
+            },
+            {
+              "mal_id": 124470,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo",
+              "url": "https://myanimelist.net/manga/124470/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-4_Shou_-_Seiiki_to_Gouyoku_no_Majo"
+            },
+            {
+              "mal_id": 167582,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu: Dai-5 Shou - Mizu no Miyako to Eiyuu no Uta",
+              "url": "https://myanimelist.net/manga/167582/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-5_Shou_-_Mizu_no_Miyako_to_Eiyuu_no_Uta"
+            },
+            {
+              "mal_id": 74697,
+              "type": "manga",
+              "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+              "url": "https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu"
+            }
+          ]
+        },
+        {
+          "relation": "Spin-Off",
+          "entry": [
+            {
+              "mal_id": 63830,
+              "type": "anime",
+              "name": "Re:Zero kara Hajimeru Break Time 4th Season",
+              "url": "https://myanimelist.net/anime/63830/Re_Zero_kara_Hajimeru_Break_Time_4th_Season"
+            }
+          ]
+        }
+      ],
+      "theme": {
+        "openings": [
+          "\"Recollect\" by Konomi Suzuki (鈴木このみ) feat. Ashnikko (eps 2-3,6,8-9)"
+        ],
+        "endings": [
+          "1: \"Ender Ember\" by MYTH & ROID feat. TK (Ling tosite sigure) (凛として時雨) (eps 3-4,7,9-10)",
+          "2: \"Stay Alive 〜Regain〜\" by Emilia (CV: Rie Takahashi) (eps 11)"
+        ]
+      },
+      "external": [
+        {
+          "name": "Official Site",
+          "url": "https://re-zero-anime.jp/tv/"
+        },
+        {
+          "name": "@Rezero_official",
+          "url": "https://twitter.com/Rezero_official"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@Rezero_official"
+        },
+        {
+          "name": "AniDB",
+          "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19242"
+        },
+        {
+          "name": "ANN",
+          "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35362"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Re:Zero_season_4"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活_(アニメ)"
+        },
+        {
+          "name": "Syoboi",
+          "url": "https://cal.syoboi.jp/tid/7780"
+        }
+      ],
+      "streaming": [
+        {
+          "name": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-"
         },
         {
           "name": "Bahamut Anime Crazy",
